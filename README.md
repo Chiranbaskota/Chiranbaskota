@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chiranjivi Baskota
 
-🌱 **Aspiring Backend Developer** | 🎓 Computer Engineering Student  
+🌱 **Aspiring Backend Developer** | 🎓 Bachelor’s in Computer Engineering
 📍 Kathmandu, Nepal
 
 ---
