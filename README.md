@@ -77,6 +77,18 @@ I am a passionate and detail-oriented Computer Engineering student with a strong
 - 💼 [LinkedIn](https://www.linkedin.com/in/chiranjivi-baskota-9ba6352a4/)
 
 ---
+---
+
+## 📊 GitHub Stats
+
+![Chiranjivi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Chiranbaskota&show_icons=true&theme=tokyonight&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiranbaskota&layout=compact&theme=tokyonight)
+
+---
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Chiranbaskota&label=Profile%20views&color=0e75b6&style=flat)
 
 _“Eager to contribute to innovative backend solutions and learn with a dynamic development team!”_
 
