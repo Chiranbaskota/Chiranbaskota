@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://chiranbaskota.github.io/Portfolio-Website/" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230080ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
 # 👋 Hi, I'm Chiranjivi Baskota
 
 🌱 **Aspiring Backend Developer** | 🎓 Bachelor’s in Computer Engineering
