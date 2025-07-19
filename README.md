@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://chiranbaskota.github.io/Portfolio-Website/" target="_blank">
+  <a href="https://chiranjivibaskota.com.np/" target="_blank">
     <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%230080ff?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
   </a>
 </p>
